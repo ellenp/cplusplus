@@ -3,7 +3,11 @@ Code-notes for Learning C++
 
 Contents:
 
-  Intro
-    helloWorld.cpp\n
-    basic.cpp\n
-    bare.cpp\n
+  intro
+  
+    helloWorld.cpp
+    
+    basic.cpp
+    
+    bare.cpp
+    
